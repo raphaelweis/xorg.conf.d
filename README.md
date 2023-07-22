@@ -1,2 +1,0 @@
-# xorg.conf.d
-
